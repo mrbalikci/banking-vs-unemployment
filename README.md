@@ -13,6 +13,8 @@ Retrieved and plotted data from the 2013 US Census and Google Places API to show
 * Used `zip_bank_data.csv`
 * Compared the US Census API and added a column for Unemployment Rate to the csv.
 
+* Saved the revised data as `bank_data_with_employment.csv`
+
 * Then created a scatter plot that compares Bank Count vs Unemployment Rate.
 
 ### Tools Used
