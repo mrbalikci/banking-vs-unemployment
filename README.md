@@ -8,7 +8,7 @@ Explored the relationship between states with high unemployment rates and bank c
 
 ---
 
-Retrieved and plotted data from the 2013 US Census and Google Places API to show the relationship between various socioeconomic parameters and bank count across 700 randomly selected zip codes. 
+Retrieved and plotted data from the 2013 US Census and Google Places API to show the relationship between various socioeconomic parameters and bank count across 700 randomly selected zip codes.
 
 ### Instructions
 
