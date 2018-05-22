@@ -11,6 +11,7 @@ Retrieved and plotted data from the 2013 US Census and Google Places API to show
 ### Instructions
 
 * Used `zip_bank_data.csv`
+
 * Compared the US Census API and added a column for Unemployment Rate to the csv.
 
 * Saved the revised data as `bank_data_with_employment.csv`
