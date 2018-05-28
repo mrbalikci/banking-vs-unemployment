@@ -1,10 +1,6 @@
 # Banking vs Unemployment
 
-The Census API to add a new Unemployment Rate column to a provided csv file.
-
----
-
-Explored the relationship between states with high unemployment rates and bank counts per state.
+Explored the relationship between states which was gathered from Census API with high unemployment rates and bank counts per state.
 
 ---
 
